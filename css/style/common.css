@@ -1,0 +1,9 @@
+body {
+    font-family: 'Raleway', sans-serif !important;
+    color: #FFF !important;
+    -webkit-font-smoothing: antialiased;
+    background-color: #080f1e !important;
+    font-size: 14px;
+    line-height: 1.42857143;
+    padding-top: 70px;
+}
